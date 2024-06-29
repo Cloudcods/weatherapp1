@@ -19,7 +19,7 @@ A Weather App that fetches weather data from api and displays it in a simple UI.
 npm run dev
 ```
 
-### Live Demo Here 
+### Live Demo Here https://weatherapp1-meosz395w-suman-ghimires-projects.vercel.app/
 
 ## Technologies I am using
 
